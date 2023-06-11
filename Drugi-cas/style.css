@@ -1,0 +1,44 @@
+table {
+    background-color: red;
+}
+
+.crvene-tabele {
+    background-color: red;
+}
+
+#table1 {
+    background-color: aquamarine;
+    color: red;
+    margin: 20px 40px 20px 10px;
+    padding: 40px;
+    border: 20%;
+    border-style: dashed;
+    border-color: black;
+    
+}
+
+#table2 {
+    color: blueviolet;
+}
+
+.blue-table {
+    background-color: blue;
+}
+
+#link-okov:hover {
+    color: brown;
+    background-color: red;
+}
+
+tr:nth-child(2) {
+    background-color: aqua;
+}
+
+#kombinovanje {
+    margin: 20px;
+    font-size: 40px;
+}
+
+#kombinovanje tr:nth-child(2n){
+    background-color: green;
+}
